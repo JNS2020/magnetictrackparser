@@ -1,0 +1,8 @@
+title: Magnetictrackparser
+description: Magnetic Track Parser is a Java 6 library that can parse magnetic stripes from a bank issued credit card.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
